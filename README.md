@@ -1,1 +1,2 @@
-# Implement-Client-Script-UI-Policy-Incident-
+# Script-Controlled ACL – Restrict Record Access Based on
+Field Value
